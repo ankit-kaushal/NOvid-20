@@ -1,4 +1,4 @@
-## Project Timeline
+# Project Timeline
 
 ### Week 1
 
